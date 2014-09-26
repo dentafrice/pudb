@@ -374,8 +374,8 @@ def get_palette(may_use_fancy_formats, theme="classic"):
 
             "source": ("white", "default"),
             "highlighted source": ("white", "light cyan"),
-            "current source": ("white", "light gray"),
-            "current focused source": ("white", "brown"),
+            "current source": ("black", "light gray"),
+            "current focused source": ("black", "brown"),
 
             "line number": ("light gray", "default"),
             "keyword": ("dark magenta", "default"),
